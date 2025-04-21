@@ -1,1 +1,0 @@
-Nimm das neuste Inkscape, installiere das komplette Axis-Draw und ersetze das ebb_serial.py durch Deine gepatchte Version.
